@@ -1,27 +1,47 @@
-Componente codigo QR
+# Frontend Mentor - QR code component solution
 
-Descripción
-Challenge "Componente de código QR"de https://www.frontendmentor.io/. El diseño se adapta al tamaño de la pantalla gracias a la utilización de media queries en CSS.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Funcionalidades:
-Muestra un código QR en un div con formato card
-Contiene dos párrafos de texto
-Diseño adaptable a diferentes tamaños de pantalla
-Tecnologías utilizadas:
-HTML5
-CSS3 (con media queries)
-Instalación
-Clona el repositorio en tu máquina local
-Abre el archivo index.html en tu navegador
-Estructura del proyecto
-index.html: archivo principal del proyecto
-styles.css: archivo de estilos CSS
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
 
-Autor
-https://github.com/frankazevallos/
+## Overview
 
-Licencia
-Este proyecto se encuentra bajo la licencia [Licencia del proyecto].
+### Screenshot
+Desktop
+![](https://imgur.com/a/lWzg2aq)
 
-!
+Mobile
+![](https://imgur.com/a/HdyoIvl)
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/frankazevallos/QR-code)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [Styled Components](https://styled-components.com/) - For styles
+
+
+
+## Author
+
+- Website - [Add your name here](https://github.com/frankazevallos/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/frankazevallos)
+
+
