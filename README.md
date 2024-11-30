@@ -16,10 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 Desktop
-![](https://imgur.com/a/lWzg2aq)
+[Desktop](https://imgur.com/a/lWzg2aq)
 
 Mobile
-![](https://imgur.com/a/HdyoIvl)
+[Mobile](https://imgur.com/a/HdyoIvl)
 
 
 ### Links
