@@ -24,8 +24,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/frankazevallos/QR-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://github.com/frankazevallos/QR-code)
+- Live Site URL: [Link](hhttps://frankazevallos.github.io/QR-code/)
 
 ## My process
 
