@@ -16,16 +16,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 Desktop
-[Desktop](https://github.com/frankazevallos/QR-code/blob/main/screenshots/desktop.jpg?raw=true)
+[](https://github.com/frankazevallos/QR-code/blob/main/screenshots/desktop.jpg?raw=true)
 
 Mobile
-[Mobile](https://github.com/frankazevallos/QR-code/blob/main/screenshots/mobile.jpg?raw=true)
+[](https://github.com/frankazevallos/QR-code/blob/main/screenshots/mobile.jpg?raw=true)
 
 
 ### Links
 
-- Solution URL: [Link](https://github.com/frankazevallos/QR-code)
-- Live Site URL: [Link](hhttps://frankazevallos.github.io/QR-code/)
+- Solution URL: [](https://github.com/frankazevallos/QR-code)
+- Live Site URL: [](hhttps://frankazevallos.github.io/QR-code/)
 
 ## My process
 
@@ -41,7 +41,7 @@ Mobile
 
 ## Author
 
-- Website - [Add your name here](https://github.com/frankazevallos/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/frankazevallos)
+- Website - [frankazevallos](https://github.com/frankazevallos/)
+- Frontend Mentor - [@frankazevallos](https://www.frontendmentor.io/profile/frankazevallos)
 
 
