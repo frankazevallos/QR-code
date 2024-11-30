@@ -15,11 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-Desktop
-[](https://github.com/frankazevallos/QR-code/blob/main/screenshots/desktop.jpg?raw=true)
 
-Mobile
-[](https://github.com/frankazevallos/QR-code/blob/main/screenshots/mobile.jpg?raw=true)
+[Desktop](https://github.com/frankazevallos/QR-code/blob/main/screenshots/desktop.jpg?raw=true)
+
+
+[Mobile](https://github.com/frankazevallos/QR-code/blob/main/screenshots/mobile.jpg?raw=true)
 
 
 ### Links
